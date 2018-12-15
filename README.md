@@ -1,6 +1,6 @@
 # eth-course
 
-I have written down all the code from a [course](https://udemy.com/ethereum-and-solidity-the-complete-developers-guide/) I was following on Udemy.
+I have written down all the code from a [course](https://www.udemy.com/share/1000CIA0sScFZXQ34=/) I was following on Udemy.
 
 ## inbox
 Just a simple smart contract that allows users to write messages into an inbox and read them as well.
